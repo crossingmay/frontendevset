@@ -1,4 +1,9 @@
-My Awesome Book
-=======
+# 私属前端开发环境配置指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本文主题是前端开发环境的配置指南，也就是记录从刚拿到MacBook开始应该做的一些易用性配置以及应用、浏览器、本地服务器、插件和快捷键等等一系列入门指南。
+
+虽然这一次已经不是新机器啦，但是借着升级到OS X 10.11 EI Caption的东风，重新配置了开发环境，也解决一下之前新手入门时期的不合理配置。
+
+声明：本书参考了其他开发者的配置过程，仅供学习参考使用
+
+[Github](http://github.com/crossingmay)
